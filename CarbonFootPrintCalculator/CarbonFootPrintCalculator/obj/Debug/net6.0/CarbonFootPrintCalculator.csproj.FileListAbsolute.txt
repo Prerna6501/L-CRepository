@@ -1,0 +1,15 @@
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\bin\Debug\net6.0\CarbonFootPrintCalculator.exe
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\bin\Debug\net6.0\CarbonFootPrintCalculator.deps.json
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\bin\Debug\net6.0\CarbonFootPrintCalculator.runtimeconfig.json
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\bin\Debug\net6.0\CarbonFootPrintCalculator.dll
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\bin\Debug\net6.0\CarbonFootPrintCalculator.pdb
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\CarbonFootPrintCalculator.csproj.AssemblyReference.cache
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\CarbonFootPrintCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\CarbonFootPrintCalculator.AssemblyInfoInputs.cache
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\CarbonFootPrintCalculator.AssemblyInfo.cs
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\CarbonFootPrintCalculator.csproj.CoreCompileInputs.cache
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\CarbonFootPrintCalculator.dll
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\refint\CarbonFootPrintCalculator.dll
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\CarbonFootPrintCalculator.pdb
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\CarbonFootPrintCalculator.genruntimeconfig.cache
+C:\Users\prerna.mehta\source\repos\CarbonFootPrintCalculator\CarbonFootPrintCalculator\obj\Debug\net6.0\ref\CarbonFootPrintCalculator.dll
