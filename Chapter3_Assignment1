@@ -1,0 +1,27 @@
+public class InputModel {
+    int number;
+    double doubleNumber;
+    String word;
+
+    public void sum(int firstNumber, int secondNumber) {
+        int sum = firstNumber + secondNumber;
+        System.out.println("Result: " + sum);
+    }
+
+    public void convertToUpperCase(String word) {
+        upperCaseString = word.toUpperCase();
+        System.out.println("Updated String: " + upperCaseString);
+    }
+}
+
+public class mainClass {
+    public static void main(String[] args) {
+        InputModel inputModel = new InputModel();
+        inputModel.number = 10;
+        inputModel.doubleNumber = 20.5;
+        inputModel.word = "hello";
+        
+        inputModel.sum(inputModel.number, 5);
+        inputModel.convertToUpperCase("world");
+    }
+}
