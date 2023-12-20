@@ -3,7 +3,7 @@ public class InputModel {
     double doubleNumber;
     String word;
 
-    public void sum(int firstNumber, int secondNumber) {
+    public void calculateSum(int firstNumber, int secondNumber) {
         int sum = firstNumber + secondNumber;
         System.out.println("Result: " + sum);
     }
@@ -21,7 +21,7 @@ public class mainClass {
         inputModel.doubleNumber = 20.5;
         inputModel.word = "hello";
         
-        inputModel.sum(inputModel.number, 5);
+        inputModel.calculateSum(inputModel.number, 5);
         inputModel.convertToUpperCase("world");
     }
 }
