@@ -11,6 +11,7 @@ namespace ErrorHandlingAssignment.Exceptions
         public OutOfFuelException(string message) : base(message)
         {
         }
+        
         public void HandleOutOfFuelException()
         {
             Console.WriteLine("Fill the fuel asap!!!!!");
