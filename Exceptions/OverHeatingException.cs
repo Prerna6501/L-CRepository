@@ -4,7 +4,6 @@
     {
         public OverHeatingException(string message) : base(message)
         {
-
         }
 
         public void HandleOverHeating()
