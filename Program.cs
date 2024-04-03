@@ -10,22 +10,22 @@ static void Main(string[] args)
     }
     catch (OutOfFuelException ex)
     {
-        Console.WriteLine("Car couldn't start due to: " + ex.Message);
+        Console.WriteLine("Car stoped due to: " + ex.Message);
         ex.HandleOutOfFuelException();
     }
     catch (AccidentException ex)
     {
-        Console.WriteLine("Car couldn't start due to: " + ex.Message);
+        Console.WriteLine("Car stopped due to: " + ex.Message);
         ex.HandleAccident();
     }
     catch (BrakeFailureException ex)
     {
-        Console.WriteLine("Car couldn't start due to: " + ex.Message);
+        Console.WriteLine("Car stopped due to: " + ex.Message);
         ex.HandleBrakeFailure();
     }
     catch (OverHeatingException ex)
     {
-        Console.WriteLine("Car couldn't start due to: " + ex.Message);
+        Console.WriteLine("Car stopped due to: " + ex.Message);
         ex.HandleOverHeating();
     }
     finally
