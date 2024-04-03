@@ -37,7 +37,7 @@ static void Main(string[] args)
 static void StartCar()
 {
     Random random = new Random();
-    int carState = random.Next(0,7);
+    int carState = random.Next(0,10);
 
     if (carState < 2)
     {
@@ -49,17 +49,17 @@ static void StartCar()
         throw new OutOfFuelException("Out of gas!");
     }
 
-    else if (carState >= 3 && carState < 5)
+    else if (carState >= 4 && carState < 6)
     {
         throw new AccidentException("SOS!!!!!Car involved in an accident!");
     }
 
-    else if (carState >= 4 && carState < 6)
+    else if (carState >= 6 && carState < 8)
     {
         throw new OverHeatingException("Overheating can cause performance impact and cause accidents");
     }
 
-    else if (carState >= 5 && carState < 7)
+    else if (carState >= 8 && carState < 10)
     {
         throw new BrakeFailureException("Alert!!! Break failure.");
     }
