@@ -9,8 +9,7 @@ namespace ErrorHandlingAssignment.Exceptions
      class BrakeFailureException : Exception
     {
         public BrakeFailureException(string message) : base(message)
-        {
-        
+        {        
         }
 
         public void HandleBrakeFailure() 
